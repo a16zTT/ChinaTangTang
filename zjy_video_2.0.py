@@ -17,7 +17,7 @@ equipmentModel="Xiaomi Redmi K30 Pro"
 equipmentApiVersion='10'
 equipmentAppVersion="2.8.42"
 emit = str(int(time.time())) + "000"
-#QQ 1694394952 By Hanna 20200410
+#QQ 1694394952 By a16ztt 20200410
 def login():
     global displayName,newToken,userId
     url='https://zjyapp.icve.com.cn/newMobileAPI/MobileLogin/newSignIn'
